@@ -71,6 +71,6 @@ This project is licensed under the **Apache License 2.0**.
 
 You are free to use, modify, and distribute this project, but **attribution is required**. Please provide proper credit by linking to this repository when using the project or its components.  
 
-For more details, see the [LICENSE](LICENSE) file.  
+For more details, see the [LICENSE](https://github.com/ReinerJasin/Realtime-Skin-Problems-Detection-with-YOLO-V5/blob/main/LICENSE.txt) file.  
 
 ---
